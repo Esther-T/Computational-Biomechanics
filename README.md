@@ -3,8 +3,9 @@ Walking with Added Mass Potentially Increased Center of Mass Vertical Displaceme
 
 ## Repo Contents
 
-- [Coming Soon]
-- 
+- find_average_peak.py => Calculates the average ground reaction force peaks (Fz1 and Fz2) across all .mat data files. 
+- peak.py => Identifies the two highest force peaks from an individual .mat file.
+- [In Progress]
 ---
 
 ## 🧠 Overview
